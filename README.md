@@ -1,2 +1,2 @@
-The Odin Project ([link](theodinproject.com))
+The Odin Project ([link](http://theodinproject.com))
 ===============
